@@ -1,0 +1,4 @@
+interface:
+  display_name: "Element-level Editable PPTX Rebuild"
+  short_description: "Recreate slide images as fully editable PPTX decks"
+  default_prompt: "Use $rebuild-editable-pptx to recreate this slide image as a high-quality, element-level editable PPTX."
